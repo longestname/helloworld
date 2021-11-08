@@ -1,2 +1,6 @@
 # helloworld
-just one
+#include<stdio.h>
+
+int main(){
+  printf("hello world\n");
+}
